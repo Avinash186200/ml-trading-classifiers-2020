@@ -1,0 +1,11 @@
+# versions are the ones I would pin today; the original ran on the 2020 stack
+numpy>=1.21
+pandas>=1.3
+scikit-learn>=1.0
+tensorflow>=2.8
+keras
+h5py
+eli5
+openpyxl
+import-ipynb
+jupyter

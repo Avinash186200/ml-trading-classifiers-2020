@@ -1,0 +1,12 @@
+# data is not part of this repo
+data/*
+!data/README.md
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.sav
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+.venv/
