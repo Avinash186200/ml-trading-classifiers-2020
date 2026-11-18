@@ -1,5 +1,7 @@
 # ML trading classifiers (2020)
 
+[![tests](https://github.com/Avinash186200/ml-trading-classifiers-2020/actions/workflows/ci.yml/badge.svg)](https://github.com/Avinash186200/ml-trading-classifiers-2020/actions/workflows/ci.yml)
+
 This is one of my early machine learning projects. I trained classifiers to predict whether a rule-based FX
 trade signal would end up as a good trade or a bad trade, and then used the predicted probability as a filter:
 only take the trade when the model is confident enough. I compared Random Forest, SVM and a small neural
